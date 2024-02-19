@@ -1,0 +1,39 @@
+@font-face {
+  src: url(icons/FontAwesome.ttf);
+  font-family: 'FontAwesome';
+}
+
+@font-face {
+  src: url(icons/Octicons.ttf);
+  font-family: 'Octicons';
+}
+
+@font-face {
+  src: url(icons/SimpleLineIcons.ttf);
+  font-family: 'SimpleLineIcons';
+}
+
+@font-face {
+  src: url(icons/Feather.ttf);
+  font-family: 'Feather';
+}
+
+@font-face {
+  src: url(fonts/Inter-Thin.ttf);
+  font-family: 'Inter-Thin';
+}
+
+@font-face {
+  src: url(fonts/Inter-Light.ttf);
+  font-family: 'Inter-Light';
+}
+
+@font-face {
+  src: url(fonts/Inter-Regular.ttf);
+  font-family: 'Inter-Regular';
+}
+
+@font-face {
+  src: url(fonts/Inter-SemiBold.ttf);
+  font-family: 'Inter-SemiBold';
+}
